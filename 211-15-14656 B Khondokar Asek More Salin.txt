@@ -1,0 +1,58 @@
+Khondokar Asek More  Salin 
+Kushtia 
+01781376808
+asekmoresalin@gmail.com
+
+Education
+Kushtia Govt College                   HSC 
+01/1970
+Kushtia
+Daffodil International University                   Bsc 
+01/1970
+Dhaka , Dhaka Division
+
+Experience
+*Make Android and web apps for NavCog, a toolthat uses sensors,
+computer vision, and crowdsourcing to help blind people move in
+
+spaces. Target crowdsourcingeffortto create 3-D modelsof buildings
+
+and maintain sensors.
+
+• Led 3 person teamdeveloping mobile andwear apps forChorus, a webbased crowdsourcingconversational assistant. Has texttospeechand
+
+speechtotext capabilities. Uses YelpSearchandYahoo APIs.
+
+• Made a natural language processortoolto be added toChorus web application.
+
+Technical Skills
+Microsoft.NET
+Objective-C
+Javascript
+C++
+Python
+
+Projects
+Mobile App
+
+Developed a mobile app that uses open-source real-estate databases to calculate the price dynamics for abandoned city districts
+
+Ported the Android Terra app for iOS platforms, rewriting the export service with Objective-C module.
+
+Achievments
+Developed an automated network management system to meet corporate goals.
+
+References
+Md. Abul Bashar
+
+Sr. Coordination Officer
+
+Department of CSE
+
+Daffodil International University
+
+Certifications
+CCNP- Cisco systems
+
+Publications
+"10 backup best practices" apperead in network world.
